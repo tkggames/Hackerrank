@@ -6,6 +6,11 @@ import java.util.ArrayList;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
+/**************************************************
+ * @author Tkggames
+ * Compare The Triplets Hackerrank Solutions
+ * Date: 05/09/2020
+ **************************************************/
 
 public class CompareTheTriplets {
     static List<Integer> compareTripletsA(List<Integer> a, List<Integer> b) {
