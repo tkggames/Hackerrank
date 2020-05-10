@@ -2,8 +2,13 @@ package design.tkggames.hackerrank;
 
 import java.util.stream.IntStream;
 
-public class SimpleArraySum {
+/**************************************************
+ * @author Tkggames
+ * Simple Array Sum Hackerrank Solutions
+ * Date: 05/09/2020
+ **************************************************/
 
+public class SimpleArraySum {
     /**
      * simple for each loop
      *
