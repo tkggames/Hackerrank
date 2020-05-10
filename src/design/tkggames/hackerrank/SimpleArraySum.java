@@ -66,4 +66,5 @@ public class SimpleArraySum {
     private static void printFormat(String description, int result) {
         System.out.printf("%s : %d%n", description, result);
     }
+
 }
