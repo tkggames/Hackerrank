@@ -1,5 +1,11 @@
 package design.tkggames.hackerrank;
 
+/**************************************************
+ * @author Tkggames
+ * Viral Advertising Solution
+ * Date: 05/10/2020
+ **************************************************/
+
 public class ViralAdvertising {
     static int viralAdvertising(int n) {
         int shared, liked = 2, cumulative = 2;
